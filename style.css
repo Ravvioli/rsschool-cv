@@ -1,16 +1,16 @@
-body {
+body{
     font-family: 'League Spartan', sans-serif;
     line-height: 1.6;
     margin: 20px;
     text-align: center;
 }
-header {
+header{
     margin-bottom: 20px;
 }
-h1 {
+h1{
     color: #333;
 }
-h2 {
+h2{
     text-align: justify;
     color: #333;
 }
@@ -18,7 +18,7 @@ div{
     height: 250px;
     width: 250px;
 }
-.section {
+.section{
     margin-top: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -30,13 +30,13 @@ div{
     margin-right: 10%;
     width: auto;
 }
-ul {
+ul{
     list-style-type: none;
     padding: 0;
 }
-li {
+li{
     margin-bottom: 8px;
 }
-p {
+p{
     margin: 0 0 10px 0;
 }
